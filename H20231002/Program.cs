@@ -12,6 +12,11 @@ namespace H20231002
         {
             string name = "Alex";
             Console.WriteLine($"{name}");
+            Console.WriteLine("blue");
+            if(resp.Toover)
+            {
+                
+            }
         }
     }
 }
